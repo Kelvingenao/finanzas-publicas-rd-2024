@@ -66,3 +66,8 @@ Todos los datos originalmente en pesos dominicanos fueron convertidos a dólares
 ## ✅ Estado del Proyecto
 
 Este análisis se encuentra **completo**, pero se puede ampliar en futuras versiones con datos de años anteriores, análisis por sectores o indicadores económicos complementarios.
+
+📄 Licencia
+
+Este proyecto es de uso educativo y los datos utilizados provienen de fuentes oficiales del gobierno dominicano. No representa una posición política ni financiera.
+
