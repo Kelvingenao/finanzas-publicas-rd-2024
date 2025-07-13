@@ -1,99 +1,99 @@
-## ¿Eran necesarios los préstamos tomados por el Gobierno Dominicano en 2024?
+## Were the Loans Taken by the Dominican Government in 2024 Necessary?
 
-Para responder esta pregunta, realizamos un análisis de las principales fuentes de ingresos y gastos del gobierno durante el año 2024. Para ello, se consideraron datos oficiales de entidades gubernamentales clave, y se convirtió toda la información a dólares estadounidenses utilizando una tasa de cambio promedio de **RD$58.8** por USD.
-
----
-
-### Principales fuentes de ingresos (en USD)
-
-| Categoría                    | Monto (USD)       |
-|-----------------------------|-------------------|
-| Ingresos por Exportaciones  | 13,350,000,000    |
-| Ingresos por Impuestos Internos | 11,600,000,000    |
-| Ingresos por Turismo        | 10,760,000,000    |
-| Ingresos por Remesas        | 10,450,000,000    |
-| Ingresos por Aduanas        | 3,420,000,000     |
+To answer this question, we conducted an analysis of the main sources of income and expenses of the Dominican government during 2024. Official data from key government entities was considered, and all values were converted to U.S. dollars using an average exchange rate of **RD$58.8** per USD.
 
 ---
 
-### Principales fuentes de gastos (en USD)
+### Main Sources of Income (in USD)
 
-| Categoría              | Monto (USD)       |
-|------------------------|-------------------|
-| Deuda Pública (pagos)  | 5,000,000,000     |
-| Salud                  | 4,945,000,000     |
-| Educación              | 4,945,000,000     |
-| Subsidios Sociales     | 820,000,000       |
-| Infraestructura        | 330,000,000       |
-
----
-
-### Resumen General
-
-- **Total de ingresos en 2024:** USD **49,580,000,000**  
-- **Total de gastos en 2024:** USD **16,040,000,000**  
-- **Superávit estimado:** USD **33,540,000,000**
+| Category                    | Amount (USD)       |
+|----------------------------|--------------------|
+| Export Revenue             | 13,350,000,000     |
+| Internal Tax Revenue       | 11,600,000,000     |
+| Tourism Revenue            | 10,760,000,000     |
+| Remittances                | 10,450,000,000     |
+| Customs Revenue            | 3,420,000,000      |
 
 ---
 
-### Préstamos tomados en 2024
+### Main Expense Categories (in USD)
 
-El gobierno tomó préstamos por un total de **USD 1,070 millones**, en dos grandes bloques:
-
-**Octubre 2024 – Total: USD 625 millones**
-- USD 100 millones – Agencia Francesa de Desarrollo (AFD): Cambio climático y sostenibilidad  
-- USD 300 millones – Banco Interamericano de Desarrollo (BID): Desarrollo económico sostenible  
-- USD 225 millones – Banco Internacional de Reconstrucción y Fomento (BIRF): Infraestructura eléctrica  
-
-**Noviembre 2024 – Total: USD 445 millones**
-- USD 400 millones – BIRF: Desarrollo sostenible y cambio climático  
-- USD 45 millones – JICA: Gestión de residuos sólidos  
-
-**Fuente:** [Diario Libre](https://www.diariolibre.com)
+| Category              | Amount (USD)       |
+|-----------------------|--------------------|
+| Public Debt (payments) | 5,000,000,000      |
+| Health                | 4,945,000,000      |
+| Education             | 4,945,000,000      |
+| Social Subsidies      | 820,000,000        |
+| Infrastructure        | 330,000,000        |
 
 ---
 
-## ¿Fueron necesarios los préstamos?
+### General Summary
 
-La respuesta no es absoluta. A continuación se presentan dos posturas razonables:
-
----
-
-### 1. Sí, los préstamos eran necesarios:
-
-- Aunque el superávit anual fue alto, **el dinero no está disponible de inmediato**, ya que se recauda a lo largo del año.
-- El Estado puede requerir **liquidez en momentos específicos**, y los préstamos permiten cubrir gastos urgentes antes de recibir ingresos suficientes.
-- Algunos proyectos financiados con préstamos (infraestructura eléctrica, cambio climático, sostenibilidad) pueden requerir **financiamiento externo especializado** o condiciones técnicas favorables.
+- **Total income in 2024:** USD **49,580,000,000**  
+- **Total expenses in 2024:** USD **16,040,000,000**  
+- **Estimated surplus:** USD **33,540,000,000**
 
 ---
 
-### 2. No, los préstamos no eran necesarios:
+### Loans Taken in 2024
 
-- Los ingresos se generan de forma constante durante el año, lo que indica **flujo de caja activo** para cubrir gastos.
-- Los préstamos se tomaron en **octubre y noviembre**, cuando ya se había recibido la mayoría de los ingresos anuales.
-- Algunos meses (ej. enero, febrero, abril) mostraron **altos niveles de recaudación** en turismo, aduanas e impuestos internos.
-- El gobierno podría haber **reducido gastos no prioritarios** o utilizado **reservas acumuladas** en lugar de endeudarse.
+The government took out loans totaling **USD 1.07 billion**, in two major phases:
+
+**October 2024 – Total: USD 625 million**  
+- USD 100 million – French Development Agency (AFD): Climate change and sustainability  
+- USD 300 million – Inter-American Development Bank (IDB): Sustainable economic development  
+- USD 225 million – International Bank for Reconstruction and Development (IBRD): Electric infrastructure  
+
+**November 2024 – Total: USD 445 million**  
+- USD 400 million – IBRD: Sustainable development and climate change  
+- USD 45 million – JICA: Solid waste management  
+
+**Source:** [Diario Libre](https://www.diariolibre.com)
 
 ---
 
-### Limitaciones del análisis:
+## Were the Loans Necessary?
 
-- **No se incluyeron todas las fuentes de ingresos** (ej. plantas energéticas como Punta Catalina).
-- Tampoco se consideraron **todos los gastos estatales**, solo los más relevantes.
-- La información se basa en datos disponibles públicamente, por lo que **las cifras podrían no reflejar el 100% del presupuesto nacional**.
+There is no absolute answer. Below are two reasonable viewpoints:
 
 ---
 
-## Conclusión
+### 1. Yes, the loans were necessary:
 
-Este análisis no busca dar una respuesta definitiva, sino presentar argumentos claros basados en datos. La decisión de si los préstamos eran o no necesarios dependerá de factores adicionales como:
+- Even with a high annual surplus, **the funds are not available immediately**, as income is collected throughout the year.
+- The government may require **liquidity at specific times**, and loans help cover urgent expenses before enough income is received.
+- Some projects funded through loans (electric infrastructure, climate resilience, sustainability) may require **external specialized financing** or favorable technical conditions.
 
-- **Ejecución presupuestaria real**
-- **Condiciones del mercado financiero**
-- **Capacidad de gestión de proyectos**
-- **Tiempos de recaudación y pagos**
+---
 
-**¿Tú qué opinas?** ¿Era necesaria la deuda o pudo haberse evitado?
+### 2. No, the loans were not necessary:
+
+- Income is generated consistently during the year, indicating **active cash flow** to cover expenses.
+- The loans were taken in **October and November**, when most of the year’s income had already been received.
+- Certain months (e.g., January, February, April) showed **high collection levels** from tourism, customs, and internal taxes.
+- The government could have **reduced non-priority expenses** or used **accumulated reserves** instead of borrowing.
+
+---
+
+### Analysis Limitations
+
+- **Not all income sources were included** (e.g., energy plants like Punta Catalina).
+- **Not all state expenditures were considered**, only the most relevant ones.
+- The analysis is based on publicly available data, so **figures may not reflect 100% of the national budget**.
+
+---
+
+## Conclusion
+
+This analysis does not aim to provide a definitive answer, but rather to present clear, data-driven arguments. Whether the loans were necessary depends on additional factors such as:
+
+- **Actual budget execution**  
+- **Conditions of the financial markets**  
+- **Project management capacity**  
+- **Timing of income vs. expenditure**
+
+**What do you think?** Was the debt necessary or could it have been avoided?
 
 ---
 
