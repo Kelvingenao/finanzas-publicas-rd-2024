@@ -1,73 +1,81 @@
-# 📊 Análisis de Ingresos, Gastos y Préstamos del Gobierno Dominicano (2024)
+📊 Analysis of Income, Expenses, and Loans – Dominican Government (2024)
+This project presents a financial analysis of the Dominican Republic's government during the year 2024, focusing on governmental income, expenses, and loans. The goal is to make it easier for the public to understand how state resources are distributed and managed.
 
-Este proyecto presenta un análisis financiero del gobierno de la República Dominicana durante el año 2024, enfocado en los ingresos, gastos y préstamos gubernamentales. El objetivo es facilitar la comprensión pública de cómo se distribuyen y gestionan los recursos del Estado.
+🎯 Objectives
+Collect financial data from official sources of the Dominican government.
 
-## 🎯 Objetivos
+Standardize all values into a single currency (USD) to facilitate comparison.
 
-- Recolectar datos financieros desde fuentes oficiales del gobierno dominicano.
-- Unificar todos los valores en una misma moneda (USD) para facilitar la comparación.
-- Realizar análisis cuantitativos y visuales sobre el presupuesto nacional.
-- Presentar conclusiones claras sobre la administración de los recursos públicos.
+Perform quantitative and visual analyses of the national budget.
 
-## 🛠️ Herramientas Utilizadas
+Present clear conclusions about the management of public resources.
 
-- **Python**:
-  - `pandas`: para limpieza y manipulación de datos.
-  - `matplotlib`, `seaborn`: para crear visualizaciones (gráficos de barras).
-- **Markdown**: para la documentación del análisis.
-- **GitHub**: control de versiones y publicación del proyecto.
+🛠️ Tools Used
+Python:
 
-## 🗂️ Estructura del Proyecto
+pandas: for data cleaning and manipulation.
 
-```
+matplotlib, seaborn: for creating visualizations (bar charts).
+
+Markdown: for documenting the analysis.
+
+GitHub: version control and project publishing.
+
+🗂️ Project Structure
+
 /ANALISIS Y CONCLUCION
-│   reme.md                # Paso a paso del análisis y conclusiones finales
+│   reme.md                # Step-by-step analysis and final conclusions
 │
 /CODIGO
-│   analisis.py            # Código usado para cálculos
-│   visualizacion.py       # Código para generar gráficos de barras
+│   analisis.py            # Code used for calculations
+│   visualizacion.py       # Code used to generate bar charts
 │
 /DATOS
-│   ingresos.csv           # Datos de ingresos (2024)
-│   gastos.csv             # Datos de gastos (2024)
+│   ingresos.csv           # Income data (2024)
+│   gastos.csv             # Expense data (2024)
 │
 /GRAFICOS
-│   ingresos_barras.png    # Gráfico de ingresos
-│   gastos_barras.png      # Gráfico de gastos
-│   comparacion.png        # Comparación entre ingresos, gastos y préstamos
-```
+│   ingresos_barras.png    # Income bar chart
+│   gastos_barras.png      # Expense bar chart
+│   comparacion.png        # Comparison of income, expenses, and loans
+📈 Visualizations
+Bar charts were used to visually represent:
 
-## 📈 Visualizaciones
+The distribution of income and expenses.
 
-Se utilizaron **gráficos de barras** para representar visualmente:
+Comparison between income, expenses, and loans.
 
-- La distribución de ingresos y gastos.
-- Comparación entre ingresos, gastos y préstamos.
-- Participación de cada institución en el presupuesto total.
+Each institution's share of the total budget.
 
-## 💵 Conversión Monetaria
+💵 Currency Conversion
+All data originally in Dominican pesos was converted to U.S. dollars using an exchange rate of RD$58.8 per USD, based on the 2024 average.
 
-Todos los datos originalmente en pesos dominicanos fueron convertidos a dólares estadounidenses usando una tasa de cambio de **RD$58.8 por USD**, correspondiente al promedio del año 2024.
+📚 Official Data Sources
+Central Bank of the Dominican Republic → bancentral.gov.do
 
-## 📚 Fuentes de Datos Oficiales
+Ministry of Finance → hacienda.gov.do
 
-- Banco Central de la República Dominicana → [bancentral.gov.do](https://www.bancentral.gov.do)
-- Ministerio de Hacienda → [hacienda.gov.do](https://www.hacienda.gov.do)
-- Dirección General de Impuestos Internos (DGII) → [dgii.gov.do](https://www.dgii.gov.do)
-- Dirección General de Aduanas (DGA) → [dga.gov.do](https://www.dga.gov.do)
-- Ministerio de Turismo (MITUR) → [mitur.gob.do](https://www.mitur.gob.do)
-- ProDominicana → [prodominicana.gob.do](https://www.prodominicana.gob.do)
-- Ministerio de Obras Públicas (MOPC) → [mopc.gob.do](https://www.mopc.gob.do)
-- Ministerio de Salud Pública (MSP) → [msp.gob.do](https://www.msp.gob.do)
-- Ministerio de Educación (MINERD) → [minerd.gob.do](https://www.minerd.gob.do)
-- Dirección General de Presupuesto (DIGEPRES) → [digepres.gob.do](https://www.digepres.gob.do)
-- Programa Supérate → [superate.gob.do](https://www.superate.gob.do)
+General Directorate of Internal Taxes (DGII) → dgii.gov.do
 
-## ✅ Estado del Proyecto
+General Directorate of Customs (DGA) → dga.gov.do
 
-Este análisis se encuentra **completo**, pero se puede ampliar en futuras versiones con datos de años anteriores, análisis por sectores o indicadores económicos complementarios.
+Ministry of Tourism (MITUR) → mitur.gob.do
 
-📄 Licencia
+ProDominicana → prodominicana.gob.do
 
-Este proyecto es de uso educativo y los datos utilizados provienen de fuentes oficiales del gobierno dominicano. No representa una posición política ni financiera.
+Ministry of Public Works (MOPC) → mopc.gob.do
 
+Ministry of Public Health (MSP) → msp.gob.do
+
+Ministry of Education (MINERD) → minerd.gob.do
+
+General Directorate of Budget (DIGEPRES) → digepres.gob.do
+
+Supérate Program → superate.gob.do
+
+✅ Project Status
+This analysis is complete, but future updates may include data from previous years, sector-based analyses, or complementary economic indicators.
+
+📄 License
+
+This project is for educational purposes. The data used comes from official sources of the Dominican government. It does not represent a political or financial stance.
